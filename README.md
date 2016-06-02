@@ -18,12 +18,27 @@ css CDN
 <link href="http://goo.gl/DNfV9J" rel="stylesheet">
 ```
 <br>
-Start by adding a <div> to your page that will contain your chart
+Start by adding a div to your page that will contain your chart
 ```bashS
 <div id="myChart"></div>
 ```
 <br>
-Next add a <script> block to the end of your page, containing the following javascript code:
+
+Next add a script block to the end of your page, containing the following javascript code:
+```bashS
+new Earth.Chart({
+  // api key for user
+  apiKey: '{test_my_key}',
+  // filter
+  data: {
+    from: 2016-01-01,
+    to: 2016-06-01
+  },
+  // chart type
+  type: 'circle'
+});
+```
+
 
 
 <br>
