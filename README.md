@@ -9,6 +9,7 @@ The folks over at usual user graciously provide CDN support for EARTH's CSS and 
 
 script CDN
 ```bashS
+<!-- Latest compiled and minified JavaScript -->
 <script src="http://goo.gl/6LkTGZ"></script>
 ```
 css CDN
