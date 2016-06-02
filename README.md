@@ -24,19 +24,6 @@ Start by adding a <div> to your page that will contain your chart
 ```
 <br>
 Next add a <script> block to the end of your page, containing the following javascript code:
-```bashS
-new Earth.Chart({
-  // api key for user
-  apiKey: '{test_my_key}',
-  // filter
-  data: {
-    from: 2016-01-01,
-    to: 2016-06-01
-  },
-  // chart type
-  type: 'circle'
-});
-```
 
 
 <br>
