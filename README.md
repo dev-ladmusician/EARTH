@@ -23,7 +23,6 @@ Start by adding a div to your page that will contain your chart
 <div id="myChart"></div>
 ```
 <br>
-
 Next add a script block to the end of your page, containing the following javascript code:
 ```bashS
 new Earth.Chart({
