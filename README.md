@@ -20,7 +20,6 @@ css CDN
 <br>
 Start by adding a <div> to your page that will contain your chart
 ```bashS
-<!-- Latest compiled and minified CSS -->
 <div id="myChart"></div>
 ```
 <br>
