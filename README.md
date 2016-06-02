@@ -28,6 +28,8 @@ Next add a script block to the end of your page, containing the following javasc
 new Earth.Chart({
   // api key for user
   apiKey: '{test_my_key}',
+  // target div tag id
+  targetId: 'myChart',
   // filter
   data: {
     from: 2016-01-01,
