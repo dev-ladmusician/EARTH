@@ -50,7 +50,6 @@ new Earth.Chart({
   }
 });
 ```
-<br>
 ### select graph type
 circle, bar, feed, line
 ```bashS
