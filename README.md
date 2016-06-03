@@ -29,14 +29,38 @@ new Earth.Chart({
   // api key for user
   apiKey: '{test_my_key}',
   // target div tag id
+  targetId: 'myChart'
+});
+```
+<br>
+# API
+it can filter, compare and get feed of amount of use
+
+### filter
+```bashS
+new Earth.Chart({
+  // api key for user
+  apiKey: '{test_my_key}',
+  // target div tag id
   targetId: 'myChart',
   // filter
   data: {
     from: 2016-01-01,
     to: 2016-06-01
-  },
-  // chart type
-  type: 'circle'
+  }
+});
+```
+<br>
+### select graph type
+circle, bar, feed, line
+```bashS
+new Earth.Chart({
+  // api key for user
+  apiKey: '{test_my_key}',
+  // target div tag id
+  targetId: 'myChart',
+  // filter
+  typr: 'circlr'
 });
 ```
 <br>
