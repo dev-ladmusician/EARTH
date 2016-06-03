@@ -41,7 +41,7 @@ new Earth.Chart({
 ```
 <br>
 # REFERENCE
-graph open source library: [Morris.js][http://morrisjs.github.io/morris.js/]
+> graph open source library: http://morrisjs.github.io/morris.js/
 
 <br>
 # DEMO
