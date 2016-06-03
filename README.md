@@ -1,7 +1,7 @@
 # WEB PROGRAMMING FINAL PROJECT
 javascript graph open source library for the amount of use ur smart switch.
 <br>
-get the amount of use graph reactive html code library for iot smart switch.
+it brings reactive html code for smart switch user's the amout of use graph
 <br>
 # GETTING STARTED
 <br>
