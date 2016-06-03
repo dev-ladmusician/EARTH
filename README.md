@@ -39,8 +39,9 @@ new Earth.Chart({
   type: 'circle'
 });
 ```
-
-
+<br>
+# REFERENCE
+graph open source library: [Morris.js][http://morrisjs.github.io/morris.js/]
 
 <br>
 # DEMO
