@@ -41,8 +41,9 @@ new Earth.Chart({
 ```
 <br>
 # REFERENCE
+> express + nodeJs : http://expressjs.com/
+> reactive js : http://www.ractivejs.org/
 > graph open source library: http://morrisjs.github.io/morris.js/
-
 <br>
 # DEMO
 
